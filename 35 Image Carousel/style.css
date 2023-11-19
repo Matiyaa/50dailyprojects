@@ -28,7 +28,7 @@ img {
 
 .image-container {
     display: flex;
-    transform: translateX(0);
+    transform: translateX(px);
     transition: transform .5s ease-in-out;
 }
 

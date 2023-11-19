@@ -22,5 +22,5 @@ function removeColor(square) {
 }
 
 function getRandomColor() {
-    return color[Math.floor(Math.random() * colors.length)]
+    return colors[Math.floor(Math.random() * colors.length)]
 }
